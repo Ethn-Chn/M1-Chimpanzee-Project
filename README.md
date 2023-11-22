@@ -11,7 +11,7 @@ Since the completion of the project, the R script has remained largely unchanged
 - `Script_Python.ipynb`: Python script used for data analysis or processing.
 - `Script_R.R`: R script for statistical analysis or data processing.
 - `Project_report.pdf`: Report detailing the analyses and results.
-- 
+   
 # M1-Chimpanzee-Project
 Impact de la présence de cultures vivrières en bordure du Parc National de Kibale (Ouganda) sur le comportement des chimpanzés (Pan troglodytes schweinfurthii)
 
